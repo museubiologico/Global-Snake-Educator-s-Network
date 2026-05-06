@@ -8,7 +8,7 @@ https://sites.google.com/savethesnakes.org/global-snake-educators-network?usp=sh
 
 How to navigate and acess this repository:
 
-Click in "Branches" and choose one of the following options. After acess the branch, you can download the document of interest.
+Click in "Branches" and choose one of the following options. After acess the branch, you can download the document of interest by clicking in the right corner (arrow pointing down).
 
 Education Materials
 - school presentations
