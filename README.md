@@ -28,3 +28,5 @@ Snakebite Prevention
 Snake Identification
 - regional species guides
 - educational materials with photos and illustrations
+
+Although the material is freely available here, it is the intellectual property of its contributors. To support our mission and respect the work of the creators, you must cite the original authors.
