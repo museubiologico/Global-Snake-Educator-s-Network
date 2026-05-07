@@ -25,7 +25,7 @@ Although this material is freely available, it is the intellectual property
 of its contributors. To support our mission and respect the work of the 
 creators, you must cite the original authors.
 
-Please use the following APA citation format:
+Example of APA citation format:
 
 [Author Surname], [Initial]. [Initial]. (2026). [Title of the Material]. 
     (Version [X.X]) [Description of Work]. Global Snake Educator's Network. 
