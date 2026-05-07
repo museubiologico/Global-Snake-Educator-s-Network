@@ -80,5 +80,3 @@ CÓMO NAVEGAR Y ACCEDER A ESTE REPOSITORIO:
 
 NOTA: Este material es propiedad intelectual. Debe citar a los autores 
 originales. Consulte el archivo "CITATION_CITACION_CITACAO" para más detalles.
-
-===============================================================================
