@@ -1,0 +1,32 @@
+===============================================================================
+CITATION AND TERMS OF USE
+===============================================================================
+
+This material is provided free of charge through the "Global Snake Educator's 
+Network" (GSEN). 
+
+ABOUT THE PROJECT:
+Snakes play important ecological roles but are often misunderstood and 
+persecuted due to fear and misinformation. The Global Snake Educators Network 
+connects educators, conservationists, researchers, and outreach practitioners 
+who are working to improve understanding of snakes and reduce human–snake 
+conflict. 
+
+Through collaboration, shared resources, and training opportunities, the 
+network aims to strengthen snake education and support conservation and 
+snakebite awareness efforts worldwide.
+
+PARTNERSHIP:
+This initiative is a partnership between SAVE THE SNAKES and the Museu 
+Biológico do Instituto Butantan.
+
+HOW TO CITE:
+Although this material is freely available, it is the intellectual property 
+of its contributors. To support our mission and respect the work of the 
+creators, you must cite the original authors.
+
+Please use the following APA citation format:
+
+[Author Surname], [Initial]. [Initial]. (2026). [Title of the Material]. 
+    (Version [X.X]) [Description of Work]. Global Snake Educator's Network. 
+    GitHub. [Insert URL Here]
