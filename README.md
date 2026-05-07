@@ -1,4 +1,3 @@
-===============================================================================
 GLOBAL SNAKE EDUCATOR'S NETWORK (GSEN)
 CITATION AND TERMS OF USE | CITAÇÃO E TERMOS DE USO | CITACIÓN Y TÉRMINOS DE USO
 ===============================================================================
